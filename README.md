@@ -32,9 +32,9 @@ Run the server
 
 ## Forkify Flowchart
 
-[ScreenShot](/forkify-architecture-recipe-loading.png)
+![forkify-architecture-recipe-loading](/forkify-architecture-recipe-loading.png)
 
-[ScreenShot](/forkify-flowchart-part-3.png)
+![forkify-flowchart](/forkify-flowchart-part-3.png)
 
 ## Authors and Thanks
 
