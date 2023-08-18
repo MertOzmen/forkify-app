@@ -1,0 +1,8 @@
+
+# İmage 
+forkify-flowchart-part-1.png
+forkify-flowchart-part-2.png
+
+/dist 
+/.parcel-cache
+/node_modules
